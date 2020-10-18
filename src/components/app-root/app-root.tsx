@@ -1,5 +1,6 @@
 import { Component, h, Listen, State } from '@stencil/core';
 
+//Read more on https://webcomponents.org
 @Component({
   tag: 'app-root',
   styleUrl: 'app-root.css',
